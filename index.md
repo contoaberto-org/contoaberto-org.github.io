@@ -19,10 +19,10 @@ Não somos uma página pública. Este é apenas um nome-fantasia para o que quer
 
 <br>
 ## Onde talvez estejamos
-<br>
 * <a href="http://parafrases.contoaberto.org">para•frases</a>
 <br>
-
+<br>
+<br>
 <br>
 ## Quem conta um ponto,
 ## aumenta um conto
