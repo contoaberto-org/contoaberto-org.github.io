@@ -19,7 +19,7 @@ Não somos uma página pública. Este é apenas um nome-fantasia para o que quer
 
 <br>
 ## Onde talvez estejamos
-<a href="http://parafrases.contoaberto.org">para•frases</a>
+<a href="http://parafrases.contoaberto.org">projeto para•frases</a>
 <br>
 <br>
 <br>
