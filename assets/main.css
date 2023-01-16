@@ -35,7 +35,7 @@ body {
 	padding: 0;
 	height: 100%;
 	overflow: visible;
-	font-family: 'lato';
+	font-family: 'lato', 'latoregular', lato, Lato, 'Lato';
 	}
 
 #bg {
@@ -78,15 +78,9 @@ body {
 	}
 
 body {
-	font-family: 'lato', lato, Lato, 'Lato', 'latoregular', -apple-system, BlinkMacSystemFont,
-	'avenir next', avenir,
-        'helvetica neue', helvetica,
-	ubuntu, Lato,
-	roboto, noto,
-	'segoe ui', arial,
-	sans-serif;
+	font-family: 'lato', lato, Lato, 'Lato', 'latoregular', arial, sans-serif;
 	font-size: 16px; /* Scale origin */
-	color: #000000;
+	color: #fff;
 	line-height: 1.5;
 	}
 
@@ -97,6 +91,7 @@ h1 {
 	font-weight: normal;
 	text-transform: uppercase;
 	font-family: 'trashhand', 'trashhandregular', trashhand, trashhandregular, 'lato', Lato, sans-serif;
+	color: #fff;
 	}
 
 h2 {
@@ -106,6 +101,7 @@ h2 {
 	font-weight: normal;
 	letter-spacing: 0.6.em;
 	font-family: 'trashhand', 'trashhandregular', trashhand, trashhandregular, 'lato', Lato, sans-serif;
+	color: #fff;
 	}
 
 h3 {
