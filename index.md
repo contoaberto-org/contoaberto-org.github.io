@@ -23,5 +23,5 @@ Não somos uma página pública. Este é apenas um nome-fantasia para o que quer
 <br>
 Emanados:
 <br>
-<i class="fa-solid fa-section"></i> para•frases
+<a href="http://parafrases.contoaberto.org"><i class="fa-solid fa-section"></i> para•frases</a>
 <br>
