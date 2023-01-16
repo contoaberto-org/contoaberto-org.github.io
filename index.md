@@ -20,7 +20,7 @@ Não somos uma página pública. Este é apenas um nome-fantasia para o que quer
 <br>
 ## Onde talvez estejamos
 <br>
-<a href="http://parafrases.contoaberto.org"><!-- <span class="icon icon--section">{% include section-solid.svg %}</span> -->para•frases</a>
+* <a href="http://parafrases.contoaberto.org">para•frases</a>
 <br>
 
 <br>
