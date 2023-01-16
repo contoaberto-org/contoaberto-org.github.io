@@ -1,6 +1,15 @@
 head {
 }
 
+@font-face {
+    font-family: 'trashhandregular';
+    src: url('trashhand-webfont.woff2') format('woff2'),
+         url('trashhand-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 body {
 	border-top: 6px solid #000;
 	color: transparent;
@@ -66,28 +75,28 @@ h1 {
 	margin: 0;
 	font-size: 48px;
 	line-height: 1.5;
-	font-weight: 700;
+	font-weight: normal;
 	text-transform: uppercase;
-	font-family: 'Lato', sans-serif;
+	font-family: 'trashhandregular', 'Lato', Lato, sans-serif;
 	}
 
 h2 {
 	margin: 0;
 	font-size: 24px;
 	line-height: 1.5;
-	font-weight: 600;
+	font-weight: normal;
 	letter-spacing: 0.6.em;
-	font-family: 'Lato', sans-serif;
+	font-family: 'trashhandregular', 'Lato', Lato, sans-serif;
 	}
 
 h3 {
 	margin: 0;
 	font-size: 18px;
 	line-height: 1.5;
-	font-weight: 600;
+	font-weight: normal;
 	letter-spacing: 0.6.em;
 	color: #000000;
-	font-family: 'Lato', sans-serif;
+	font-family: 'trashhandregular', 'Lato', Lato, sans-serif;
 	}
 
 p {
