@@ -120,24 +120,24 @@ p {
 	}
 
 a {
-	color:#357edd;
+	color:#ede1ce;
 	text-decoration: none;
 	}
 
 a:visited{
-	color:#96ccff;
+	color:#adc4bf;
   	}
 
 a:hover{
-	color:#00449e;
+	color:#fff;
   	}
 
 a:focus{
-	color:#009eff;
+	color:#fff;
 	}
 
 a:active{
-	color:#001b44;
+	color:#fff;
 	}
 
 .task-list {
