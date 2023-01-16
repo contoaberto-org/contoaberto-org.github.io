@@ -14,7 +14,9 @@ Um espaço dedicado a reflexões introspectivas. Você pode acompanhar o que faz
 <br>
 Não somos uma página pública. Este é apenas um nome-fantasia para o que queremos ser. Estamos no ar desde 1999<br>
 <br>
+
 ***
+
 <br>
 ## Quem conta um ponto,
 ## aumenta um conto
