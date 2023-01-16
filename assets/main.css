@@ -77,7 +77,7 @@ body {
 	}
 
 body {
-	font-family: -apple-system, BlinkMacSystemFont,
+	font-family: 'lato', -apple-system, BlinkMacSystemFont,
 	'avenir next', avenir,
         'helvetica neue', helvetica,
 	ubuntu, Lato,
@@ -95,7 +95,7 @@ h1 {
 	line-height: 1.5;
 	font-weight: normal;
 	text-transform: uppercase;
-	font-family: 'trashhand', 'lato', Lato, sans-serif;
+	font-family: 'trashhand', 'trashhandregular', 'lato', Lato, sans-serif;
 	}
 
 h2 {
