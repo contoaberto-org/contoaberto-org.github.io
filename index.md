@@ -7,11 +7,12 @@ layout: default
 
 # CONTOABERTO
 
-Um espaço dedicado a reflexões introspectivas. Você pode acompanhar o que fazemos em outros lugares
+Um espaço dedicado a reflexões introspectivas. Você pode acompanhar o que fazemos em outros lugares<br>
+
 
 ## O que não somos
 
-Não somos uma página pública. Este é apenas um nome-fantasia para o que queremos ser. Estamos no ar desde 1999.
+Não somos uma página pública. Este é apenas um nome-fantasia para o que queremos ser. Estamos no ar desde 1999<br>
 
 ***
 
