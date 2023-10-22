@@ -8,4 +8,193 @@
   {% if jekyll.environment == 'production' and site.google_analytics %}
     {% include google-analytics.html %}
   {% endif %}
+
+<style>
+  head {
+}
+
+@font-face {
+    font-family: 'trashhandregular';
+    src: url('trashhand-webfont.woff2') format('woff2'),
+         url('trashhand-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'latoregular';
+    src: url('lato-regular-webfont.woff2') format('woff2'),
+         url('lato-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'latoitalic';
+    src: url('lato-italic-webfont.woff2') format('woff2'),
+         url('lato-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+	border-top: 6px solid #000;
+	color: transparent;
+	margin: 0 auto 6px;
+	padding: 0;
+	height: 100%;
+	overflow: visible;
+	font-family: 'lato', 'latoregular', lato, Lato, 'Lato';
+	}
+
+#bg {
+  	position: fixed;
+	top: -50%;
+	left: -50%;
+	width: 200%;
+	height: 200%;
+	}
+
+#bg img {
+	background-size: cover;
+	height: 100%;
+	overflow: visible;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: 0 auto;
+	min-width: 50%;
+	min-height: 50%;
+	}
+	
+#container {
+	margin: 20px auto;
+	max-width: 600px;
+	width: 60%;
+	min-width: 260px;
+	margin: 10px auto 0 auto;
+	text-align: left;
+	position: relative;
+	padding: 25px;
+	background: transparent url(img/#black50.png);
+	background: rgba(255,255,255,0.24) none;
+	-moz-border-radius: 12px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	/* Scale origin */
+	}
+
+body {
+	font-family: 'lato', lato, Lato, 'Lato', 'latoregular', arial, sans-serif;
+	font-size: 16px; /* Scale origin */
+	color: #fff;
+	line-height: 1.5;
+	}
+
+h1 {
+	margin: 0;
+	font-size: 48px;
+	line-height: 1.5;
+	font-weight: normal;
+	text-transform: uppercase;
+	font-family: 'trashhand', 'trashhandregular', trashhand, trashhandregular, 'lato', Lato, sans-serif;
+	color: #fff;
+	}
+
+h2 {
+	margin: 0;
+	font-size: 24px;
+	line-height: 1.5;
+	font-weight: normal;
+	letter-spacing: 0.6.em;
+	font-family: 'trashhand', 'trashhandregular', trashhand, trashhandregular, 'lato', Lato, sans-serif;
+	color: #fff;
+	}
+
+h3 {
+	margin: 0;
+	font-size: 18px;
+	line-height: 1.5;
+	font-weight: normal;
+	letter-spacing: 0.6.em;
+	color: #000000;
+	font-family: 'trashhand', 'trashhandregular', trashhand, trashhandregular, 'lato', Lato, sans-serif;
+	}
+
+p {
+	margin: 16px 0 0;
+	font-family: 'lato', sans-serif;
+	}
+
+a {
+	color:#ede1ce;
+	text-decoration: none;
+	}
+
+a:visited{
+	color:#ede1ce;
+  	}
+
+a:hover{
+	color:#fff;
+  	}
+
+a:focus{
+	color:#fff;
+	}
+
+a:active{
+	color:#fff;
+	}
+
+.task-list {
+	list-style: none;
+	}
+		
+/**
+ * Site footer
+ */
+
+.site-footer {
+	padding: 0;
+	}
+
+.footer-heading {
+	margin-bottom: 1em;
+	}
+
+.contact-list {
+	list-style: none;
+	margin-left: 0;
+	}
+
+.social-media-list {
+	font-size: 16px;
+	list-style: none;
+	margin-left: 0;
+}
+
+.contact-list a,
+.social-media-list a {
+	color: #357edd;
+	text-decoration: none;
+	}
+
+.contact-list a:hover,
+.social-media-list a:hover {
+	color: #357edd;
+	}
+
+.social-media-list .icon {
+	vertical-align: text-top;
+	}
+
+</style>
+
+  
 </head>
